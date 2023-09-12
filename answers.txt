@@ -4,4 +4,3 @@ A remote repository functions almost exactly as a normal one, except
 you can access it either on another local server or a totally remote
 server. With this, you can collaborate with other people on the same
 repository, commit history and all, without needing the .git file locally.
-
