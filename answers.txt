@@ -4,3 +4,10 @@ A merge and rebase do the same thing, apply changes from one branch to another.
 Merge will preserve commit history across both branches while rebase is destructive
 and will copy the commit history from branch A and put it into branch B so that B shows
 a single history with commits representing changes from branch A.
+
+What is a remote repository?
+
+A remote repository functions almost exactly as a normal one, except 
+you can access it either on another local server or a totally remote
+server. With this, you can collaborate with other people on the same
+repository, commit history and all, without needing the .git file locally.
